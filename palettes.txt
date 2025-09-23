@@ -1,0 +1,38 @@
+MahjongTile
+h1 #0c742b
+background #f6f4e8
+
+Avocado
+h1 #0c742b
+background #9edc9
+
+Avocado Bold
+h1 #0c742b
+background #ccff00
+
+Blueprint
+color whitesmoke
+background  #272A9C
+link yellow
+
+Blueprint v2
+color whitesmoke
+background  #3305A3
+link yellow
+
+Terminal
+a {
+    color: yellow;
+}
+body {
+    color: rgb(200, 255, 197);
+    background-color:#0c090d;
+}
+
+Underwater
+a {
+    color: #6BB9BD;
+}
+body {
+    color: #469AA5;
+    background-color:#081623;

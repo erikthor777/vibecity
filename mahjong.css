@@ -11,18 +11,14 @@
 
 h1 {
     font-family: Advercase Bold, 'Times New Roman', Times, serif;
+    color: #0c742b;
 }
 
 h2 {
     font-family: DM Serif Display, 'Times New Roman', Times, serif;
 }
 
-a {
-    color: yellow;
-}
-
 body {
-    color: rgb(200, 255, 197);
-    background-color:#0c090d;
-    font-family: Zen Antique Soft, 'Times New Roman', Times, serif;
+    background-color: #9edc9;
+    font-family: Advercase Bold, 'Times New Roman', Times, serif;
 }
