@@ -9,20 +9,49 @@
     font-weight: bold;
 }
 
+* {
+    color: rgb(200, 255, 197);
+    background-color:#0c090d;
+    font-family: 'Times New Roman', Times, serif, 'DM Serif Display', 'Courier New', Courier, monospace;
+}
+
 h1 {
-    font-family: Advercase Bold, 'Times New Roman', Times, serif;
+    font-family: 'Advercase Bold', 'DM Serif Display', 'Times New Roman', Times, serif;
 }
 
 h2 {
-    font-family: DM Serif Display, 'Times New Roman', Times, serif;
+    font-family: 'DM Serif Display', 'Advercase', 'Times New Roman', Times, serif;
 }
 
 a {
     color: yellow;
+    /* font-family: Zen Antique Soft, 'Times New Roman', Times, serif, 'Courier New', Courier, monospace; */
 }
 
-body {
-    color: rgb(200, 255, 197);
-    background-color:#0c090d;
-    font-family: Zen Antique Soft, 'Times New Roman', Times, serif;
+header {
+    text-align: center;
+}
+
+header a {
+    font-family: 'Zen Antique Soft', 'DM Serif Display', 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-size: 16pt;
+    color:rgb(200, 255, 197);
+    background-color: darkslategrey;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+ul {
+    line-height: 1.5;
+}
+
+footer {
+    font-style: italic;
+}
+
+.chinese {
+    font-family: 'Zen Antique Soft', 'DM Serif Display', 'Times New Roman', Times, serif;
 }
