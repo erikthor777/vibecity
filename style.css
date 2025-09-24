@@ -39,6 +39,7 @@ header a {
     font-size: 16pt;
     color:rgb(200, 255, 197);
     background-color: darkslategrey;
+    padding: 0 5px;
 }
 
 a:hover {
@@ -53,6 +54,25 @@ footer {
     font-style: italic;
 }
 
+img {
+    height: 30%;
+    width: 30%;
+}
+
 .chinese {
     font-family: 'Zen Antique Soft', 'DM Serif Display', 'Times New Roman', Times, serif;
+}
+
+.infobox {
+    margin-top: 20px;
+    display: block;
+    padding: 0 5px;
+    background-color: darkslategrey;
+    border: 1px solid rgb(200, 255, 197);
+}
+
+#boxtext {
+    margin: 0;
+    background-color: darkslategrey;
+    line-height: 1.5;
 }
