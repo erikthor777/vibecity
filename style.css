@@ -31,7 +31,7 @@ a {
 
 header {
     text-align: center;
-    padding: 20px;
+    padding: 5px 20px;
     max-width: 1250px;
     margin: 0 auto;
 }
@@ -55,11 +55,6 @@ ul {
 
 footer {
     font-style: italic;
-}
-
-img {
-    height: 30%;
-    width: 30%;
 }
 
 .container {
@@ -93,17 +88,14 @@ img {
     line-height: 1.5;
 }
 
-/*.flex-container {
+.flex-container {
     display: flex;
 
 }
 
-.flex-container p {
-    font-size: 24px;
-} */
-
 .flex-img {
     display: block;
-    height: 400px;
-    width: 600px;
+    height: 600px;
+    width: 1000px;
+    margin: 0px 0px 0px 50px;
 }
